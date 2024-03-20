@@ -1,5 +1,4 @@
-# Contributors:  <a href="https://github.com/Akshay_Jagiasi" target="_blank"> Akshay Jagiasi</a>
-# -------------- <a href="https://github.com/Harsh-gg" target="_blank"> Harsh G</a>
+# Contributors:  <a href="https://github.com/Akshay_Jagiasi" target="_blank"> Akshay Jagiasi</a>   <a href="https://github.com/Harsh-gg" target="_blank"> Harsh G</a>
 
 
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Disease%20detection%20mpr.png)
