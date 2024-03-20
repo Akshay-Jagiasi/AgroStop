@@ -1,5 +1,5 @@
 # Contributors: https://github.com/Akshay-Jagiasi
-#               https://github.com/Harsh-gg
+#---------------https://github.com/Harsh-gg
 
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Disease%20detection%20mpr.png)
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Main%20page%20mpr.png)
