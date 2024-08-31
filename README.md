@@ -14,11 +14,13 @@
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Screenshot%202024-03-30%20184804.png)
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Screenshot%202024-03-30%20185845.png)
 
+## MarketPlace SignUp
+![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/signup%20for%20farmer%20and%20wholesaler.png)
+
 ## MarketPlace Login
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/marketplace%20new%20user%20phone%20no%20mpr.png)
 
 ## Farmers Portal
-![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/signup%20for%20farmer%20and%20wholesaler.png)
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/farmer%20portal%20mpr.png)
 
 ## Wholesaler Portal
