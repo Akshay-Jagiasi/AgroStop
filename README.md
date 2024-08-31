@@ -6,8 +6,11 @@
 ## Disease Detection
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Disease%20detection%20mpr.png)
 
+## Crop Recommendation
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Screenshot%202024-03-30%20184629.png)
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Screenshot%202024-03-30%20184744.png)
+
+
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Screenshot%202024-03-30%20184804.png)
 ![alt text](https://github.com/Harsh-gg/AgroStop/blob/main/Screenshot%202024-03-30%20185845.png)
 
